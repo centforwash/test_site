@@ -1,10 +1,11 @@
 ---
-title: "testsite"
+title: "Welcome to the State of the Capitol Region 2023"
 ---
 
-This is a Quarto website.
+Daniel is testing out this website. Right now, it's very boring. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Here's the tutorial I found useful: https://www.youtube.com/watch?v=uimdXPZc40I
+
 
 ```{r}
 1 + 1
